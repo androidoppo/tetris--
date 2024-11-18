@@ -1,3 +1,11 @@
+###########################
+#    base tetris v1.2.0   #
+#   ....................  #
+#  @androidoppo(gamemode) #
+#     >>you hallo         #
+#       (;^-^;)           #
+#         hi!             #
+###########################
 import pygame
 import sys
 import subprocess
