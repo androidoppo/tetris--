@@ -62,7 +62,7 @@
 --- --- ## Producer's self-introduction?
 
 ## Introduce yourself as a creator?
-I, ** English, I don't know English! **
+I, **English, I don't know English!**
 So I use **Google Translate** to help me out. 
 **DeepL** is good, but Google is the best when it comes to usability. 
 By the way, I'm a **Takenokono-Yama-ist**.
