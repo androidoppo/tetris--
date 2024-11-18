@@ -29,10 +29,10 @@ except FileNotFoundError:
 
 # ボタンの定義（相対パス指定）
 buttons = [
-    {"label": "kind", "file": os.path.join(script_dir, "tetris program","kind.py"), "rect": pygame.Rect(50, 150, 200, 50)},
-    {"label": "medium", "file": os.path.join(script_dir, "tetris program","medium.py"), "rect": pygame.Rect(50, 220, 200, 50)},
-    {"label": "hard", "file": os.path.join(script_dir, "tetris program","hard.py"), "rect": pygame.Rect(50, 290, 200, 50)},
-    {"label": "custom", "file": os.path.join(script_dir, "tetris program", "Custom.py"), "rect": pygame.Rect(50, 360, 200, 50)},
+    {"label": "kind", "file": os.path.join(script_dir, "kind.py"), "rect": pygame.Rect(50, 150, 200, 50)},
+    {"label": "medium", "file": os.path.join(script_dir, "medium.py"), "rect": pygame.Rect(50, 220, 200, 50)},
+    {"label": "hard", "file": os.path.join(script_dir, "hard.py"), "rect": pygame.Rect(50, 290, 200, 50)},
+    {"label": "custom", "file": os.path.join(script_dir, "Custom.py"), "rect": pygame.Rect(50, 360, 200, 50)},
 ]
 
 # ボタン描画関数
