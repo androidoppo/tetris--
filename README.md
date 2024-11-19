@@ -11,7 +11,7 @@
 
 ### v1.0.0
 - 基本機能が使えるようになりました。
-- 注意:カスタムは開発中です。
+- 注意:**カスタムは開発中です**。
 ### v1.2.0
 - 絶対パスを修正しました。
 
@@ -33,8 +33,9 @@
 わたし、**英語、ワカラナイーー！**　(,,ﾟДﾟ)  
 なので、**Google翻訳**に助けてもらっています(^^)  
 **DeepL**もいいけど、使い勝手ならやっぱりGoogleだよねー(^-^)  
-ちなみに、**たけのこの山派**です。
-
+ちなみに、**たけのこの山派**です。    
+あ!!そうそう、作者日本人だから英語バージョンよりも**日本語バージョン見ておいたほうがいいよ**！       
+なぜなら**更新頻度が落ちるから**
 ## English(translation)
 
 ## Initial Setup
@@ -68,6 +69,8 @@ I, **English, I don't know English!**
 So I use **Google Translate** to help me out. 
 **DeepL** is good, but Google is the best when it comes to usability. 
 By the way, I'm a **Takenokono-Yama-ist**.
+Ah!!! Yes, the author is Japanese, so you should see the Japanese version rather than the English version!
+Because it will be updated less often!
 
 
 Translated with DeepL.com (free version)

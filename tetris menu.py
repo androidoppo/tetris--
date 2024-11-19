@@ -6,6 +6,22 @@
 #       (;^-^;)           #
 #         hi!             #
 ###########################
+#Hello
+#Thank you for using this product
+#You can create something based on this product and distribute it, but please make sure not to overwrite #
+#Rules
+#Post the base URL and write that it is a secondary distribution
+#You can omit the # in the explanation
+#I made it based on this.
+#base url https://github.com/androidoppo/tetris--
+#base version tetris v1.3.2
+###############################
+#       base tetris v1.3.2    #
+#         @androidoppo        #
+#            Python           #
+#                             #
+#          私は幸せです 　　   #
+###############################
 import pygame
 import sys
 import subprocess
